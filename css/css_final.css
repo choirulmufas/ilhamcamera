@@ -1,7 +1,7 @@
 /* Untuk Navbar Section */
     .navbar {
         transition: all 0.3s;
-        background-color: #AC0000; /* Warna latar belakang transparan saat awal */
+        background-color: #036925; /* Warna latar belakang transparan saat awal */
       
     }
     .navbar a strong {
